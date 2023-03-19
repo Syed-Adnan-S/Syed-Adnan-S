@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ML Use Cases in E-Learning](https://medium.com/@SyedAdnan10/ml-use-cases-in-e-learning-8d7d6a8433fc?source=rss-77d4f6b4b50------2)
 - [ML Use Cases in Healthcare](https://medium.com/@SyedAdnan10/ml-use-cases-in-healthcare-5b4c2b59c5f2?source=rss-77d4f6b4b50------2)
 - [ML Use Cases in Marketing, Media, and Publishing.](https://medium.com/@SyedAdnan10/ml-use-cases-in-marketing-media-and-publishing-40d72e941727?source=rss-77d4f6b4b50------2)
 - [ML Use Cases In Banking, Finance, and Insurance.](https://medium.com/@SyedAdnan10/ml-use-cases-in-banking-finance-and-insurance-4912fa80cf12?source=rss-77d4f6b4b50------2)
