@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Syed Adnan S</h1>
-<h3 align="center">An aspiring data scientist from India</h3>
+# 👨‍💻 Syed Adnan S 
+**`Data Professional (Data Scientist | Data Analyst)`**
+<details>
+ <summary><h2>🕵️‍♂️ About Me</h2></summary>
+ <div style="overflow: auto;">
+   <div style="float: left; width: 70%;">
+     I am an aspiring data scientist from India. I graduated from St. Joseph's University, Bangalore in 2022, where I majored in Physics, Mathematics and Computer Science. I have been trained in the field of data science by a company named AlmaBetter, which is one of the leading data science training companies in India. I have also completed a few interesting internships in the data science domain, that have given me a strong foundation of data skills. I have a proven track record of delivering impactful projects and effectively communicating insights. I have a burning desire to be the best data scientist I can be and therefore I am always looking for ways to improve and currently, I am trying to learn and experiment more on topics like deep learning and model deployment. In my free time I like to play football, read non fictional books, and write data science related blogs on Medium. This was just a brief introduction, but feel free to reach out to me if you want to know more about me or my projects!!
+   </div>
+   <div style="float: right; width: 30%;">
+     <img src="https://chools.in/wp-content/uploads/data-science-2-1.gif" alt="Data Scientist" width="100" height="100">
+   </div>
+ </div>
+</details>
 
-- 🔭 I’m currently completing **Full stack data science course by AlmaBetter**
-
-- 🌱 I’m currently learning **Deep learning and Model deployment**
-
-- 📝 I regularly write articles on [https://medium.com/@SyedAdnan10](https://medium.com/@SyedAdnan10)
-
-- 📫 How to reach me **syedshabbir107@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F61QXNB-fgjvQkW6pBCS816KUt-vOyV7/view?usp=sharing](https://drive.google.com/file/d/1F61QXNB-fgjvQkW6pBCS816KUt-vOyV7/view?usp=sharing)
-
-### Blogs posts
+### My Recent Blogs:
 <!-- BLOG-POST-LIST:START -->
 - [ML Use Cases in E-Learning](https://medium.com/@SyedAdnan10/ml-use-cases-in-e-learning-8d7d6a8433fc?source=rss-77d4f6b4b50------2)
 - [ML Use Cases in Healthcare](https://medium.com/@SyedAdnan10/ml-use-cases-in-healthcare-5b4c2b59c5f2?source=rss-77d4f6b4b50------2)
