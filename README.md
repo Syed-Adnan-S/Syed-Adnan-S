@@ -17,5 +17,5 @@
 
 
 ## My Resume:
-![Syed Adnan S CV](https://user-images.githubusercontent.com/85065799/227933275-e90d740c-b2c2-47c4-835a-c82ec8614aad.jpg)
+!<img width="616" height="852" alt="Image" src="https://github.com/user-attachments/assets/b8d2117b-8e5f-481e-a5cf-4cd3dd5a9dd5" />
  
