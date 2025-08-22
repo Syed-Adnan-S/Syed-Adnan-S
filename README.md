@@ -4,7 +4,15 @@
                                                 
 <details>
  <summary><h2>🕵️‍♂️ About Me</h2></summary>
-     I am an aspiring data scientist from India. I graduated from St. Joseph's University, Bangalore in 2022, where I majored in Physics, Mathematics and Computer Science. I have been trained in the field of data science by a company named AlmaBetter, which is one of the leading data science training companies in India. I have also completed a few interesting internships in the data science domain, that have given me a strong foundation of data skills. I have a proven track record of delivering impactful projects and effectively communicating insights. I have a burning desire to be the best data scientist I can be and therefore I am always looking for ways to improve and currently, I am trying to learn and experiment more on topics like deep learning and model deployment. In my free time I like to play football, read non fictional books, and write data science related blogs on Medium. This was just a brief introduction, but feel free to reach out to me if you want to know more about me or my projects!!
+     I’m a Data Analyst with over 2 years of experience turning complex data into clear, actionable insights. I specialize in driving data-backed decision-making across teams and leadership by combining strong analytical skills with a deep understanding of SQL database management systems.
+
+My technical expertise spans SQL, Python, Excel, Tableau, Power BI, GA4, Microsoft Clarity, and Machine Learning. Whether it's building dashboards, optimizing reporting workflows, or uncovering trends that guide business strategy, I bring a structured, insight-first approach to every project.
+
+I'm also a firm believer in continuous learning and constantly seek out new tools, technologies, and methods that can enhance the quality and efficiency of my work. Known as a collaborative team player and clear communicator, I thrive in environments where data drives real impact.
+
+Outside of work, I’m quite passionate about sports—especially football, MMA, and badminton—which keep me energized, competitive, and focused.
+
+I'm always open to connecting with professionals who are passionate about leveraging data to solve real-world problems and push boundaries—let’s connect.
 </details>
 
 ### My Recent Blogs:
@@ -14,8 +22,3 @@
 - [ML Use Cases in Healthcare](https://medium.com/@SyedAdnan10/ml-use-cases-in-healthcare-5b4c2b59c5f2?source=rss-77d4f6b4b50------2)
 - [ML Use Cases in Marketing, Media, and Publishing.](https://medium.com/@SyedAdnan10/ml-use-cases-in-marketing-media-and-publishing-40d72e941727?source=rss-77d4f6b4b50------2)
 <!-- BLOG-POST-LIST:END -->
-
-
-## My Resume:
-!<img width="616" height="852" alt="Image" src="https://github.com/user-attachments/assets/b8d2117b-8e5f-481e-a5cf-4cd3dd5a9dd5" />
- 
